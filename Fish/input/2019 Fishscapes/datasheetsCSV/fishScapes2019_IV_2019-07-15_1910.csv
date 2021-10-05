@@ -1,0 +1,22 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,IV,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,7/15/2019 18:45,,,,,,,,,,,,,,,,
+dateTimeSample,7/15/2019 19:10,,,,,,,,,,,,,,,,
+crew,"AL, ALK, JC",,,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,0.42,,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,,
+comments,was raining but now is not and maybe it will later,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,JC,,,,,,,,,,,,,,,,
+dataEnteredBy,FF,,,,,,,,,,,,,,,,
+metadataID,Fishscapes.Angling.20180625,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,325,,AF,,,,,,,,,,,JC,,0
+2,LMB,250,,AF,,,,,,,,,,,ALK,,0
+3,LMB,316,,AF,,,,,,,,,,,ALK,,0
+4,LMB,280,,AF,,,,,,,,,,,AL,,0

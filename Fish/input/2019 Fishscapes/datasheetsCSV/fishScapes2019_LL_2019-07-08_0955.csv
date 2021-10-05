@@ -1,0 +1,20 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,LL,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,7/8/2019 9:00,,,,,,,,,,,,,,,,
+dateTimeSample,7/8/2019 9:55,,,,,,,,,,,,,,,,
+crew,"CI, ALK",,,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,0.92,,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,,
+comments,,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,CI,,,,,,,,,,,,,,,,
+dataEnteredBy,FF,,,,,,,,,,,,,,,,
+metadataID,Fishscapes.Angling.20180625,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,NFC,,,,,,,,,,,,,,CI,,0
+2,NFC,,,,,,,,,,,,,,ALK,,0

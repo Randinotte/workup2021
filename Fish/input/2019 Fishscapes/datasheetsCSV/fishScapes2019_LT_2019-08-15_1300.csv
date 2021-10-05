@@ -1,0 +1,21 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,LT,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,8/15/2019 10:20,,,,,,,,,,,,,,,,
+dateTimeSample,8/15/2019 12:05,,,,,,,,,,,,,,,,
+crew,"AT,MS,CM",,,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,1.75,,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,,
+comments,55 mins in breaks for boat counts and food   end time adjusted accordingly,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,MS,,,,,,,,,,,,,,,,
+dataEnteredBy,CD,,,,,,,,,,,,,,,,
+metadataID,Fishscapes.Angling.20180625,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,NFC,,,,,,,,,,,,,,AT,,0
+2,NFC,,,,,,,,,,,,,,CM,,0
+3,NFC,,,,,,,,,,,,,,MS,the final wayho,0

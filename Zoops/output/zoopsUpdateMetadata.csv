@@ -1,0 +1,5 @@
+updateID,updateDate,verNumber,rawFile,parentBoxFolder,sourceCode,updaterInitials,updateMetadata
+longZoops_2020.20201123,1/12/2021,4.3.0,tableZOOPS_ABUND_BIOMASS.20201123.csv,summer2020,zoop_AbunBiomass_calcScript_20201117.R,KG,Added 2020 Long Lake zoops (110 rows) for a total of 2762 rows.
+longZoops_2020.20201123,1/12/2021,4.3.0,tableZOOPS_LENGTHS.20201123.csv,summer2020,zoop_AbunBiomass_calcScript_20201117.R,KG,Added 2020 Long Lake zoops (1960 rows) for a total of 41523 rows. 
+longZoops_2020.20201123,1/12/2021,4.3.0,tableZOOPS_SUBSAMPLE.20201123.csv,summer2020,zoop_AbunBiomass_calcScript_20201117.R,KG,Added 2020 Long Lake zoops (22 rows) for a total of 1049.
+longZoops_2020.20201123,1/12/2021,4.3.0,samplesZoops_20201123.csv,summer2020,zoop_AbunBiomass_calcScript_20201117.R,KG,Added 2020 Long Lake zoop samples (n=22). Does not include monitoring lakes

@@ -1,0 +1,21 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,ID,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,7/23/2019 8:40,,,,,,,,,,,,,,,,
+dateTimeSample,7/23/2019 11:00,,,,,,,,,,,,,,,,
+crew,"DS, ALK, AMK",,,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,2.33,,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,,
+comments,,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,DS,,,,,,,,,,,,,,,,
+dataEnteredBy,MS,,,,,,,,,,,,,,,,
+metadataID,Fishscapes.Angling.20180625,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,NFC,,,,,,,,,,,,,,DS,,0
+2,NFC,,,,,,,,,,,,,,ALK,,0
+3,NFC,,,,,,,,,,,,,,AMK,,0

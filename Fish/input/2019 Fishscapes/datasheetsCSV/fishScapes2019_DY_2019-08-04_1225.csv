@@ -1,0 +1,37 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,DY,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,8/4/2019 10:15,,,,,,,,,,,,,,,,
+dateTimeSample,8/4/2019 12:25,,,,,,,,,,,,,,,,
+crew,"CI, JC",,,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,2.17,,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,,
+comments,,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,JC,,,,,,,,,,,,,,,,
+dataEnteredBy,MS,,,,,,,,,,,,,,,,
+metadataID,Fishscapes.Angling.20180625,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,261,,AF,,,,,,,,,,,JC,,0
+2,LMB,246,,AF,,,,1,1,,,,,,JC,,0
+3,LMB,346,,AF,,,,1,1,,,,,,JC,,0
+4,LMB,253,,AF,,,,,,,,,,,JC,,0
+5,LMB,287,,AF,,,,,,,,,,,JC,,0
+6,LMB,256,,AF,,,,,,,,,,,JC,,0
+7,LMB,271,,AF,,,,,,,,,,,CI,,0
+8,LMB,303,,AF,,,,,,,,,,,CI,,0
+9,LMB,202,,AF,,,,1,1,,,,,,JC,,0
+10,LMB,293,,AF,,,,,,,,,,,CI,,0
+11,LMB,338,,AF,,,,1,1,,,,,,JC,,0
+12,LMB,280,,,AF,,,,,,,,,,JC,,0
+13,LMB,292,,AF,,,,,,,,,,,JC,,0
+14,LMB,230,,AF,,,,,,,,,,,CI,,0
+15,LMB,269,,AF,,,,,,,,,,,CI,,0
+16,LMB,256,,AF,,,,,,,,,,,JC,,0
+17,LMB,301,,AF,,,,1,1,,,,,,JC,foul hooked through brain,0
+18,LMB,281,,AF,,,,,,,,,,,JC,,0
+19,LMB,293,,AF,,,,,,,,,,,JC,,0

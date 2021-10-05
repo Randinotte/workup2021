@@ -1,0 +1,28 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,DY,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,6/27/2019 0:05,,,,,,,,,,,,,,,,
+dateTimeSample,6/27/2019 0:45,,,,,,,,,,,,,,,,
+crew,"AS, AL, CD",,,,,,,,,,,,,,,,
+gear,BE,,,,,,,,,,,,,,,,
+distanceShocked,1.24,,,,,,,,,,,,,,,,
+effort,0.666666667,,,,,,,,,,,,,,,,
+effortUnits,electrofishing_hours,,,,,,,,,,,,,,,,
+comments,low conductivity few fish effected enough to turn,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,AL,,,,,,,,,,,,,,,,
+dataEnteredBy,MS,,,,,,,,,,,,,,,,
+metadataID,FishscapesSurvey.1.5mile.20180607,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,BLG,148,,,,,,,,,,,,,,,0
+2,LMB,343,,AF,,,,1,1,,,,,,,,0
+3,LMB,364,,AF,,,,1,1,,,,,,,,0
+4,LMB,370,,AF,,,,1,1,,,,,,,,0
+5,LMB,310,,AF,,,,1,1,,,,,,,,0
+6,LMB,350,,AF,,,,1,1,,,,,,,,0
+7,LMB,331,,AF,,,,1,1,,,,,,,,0
+8,LMB,334,,AF,,,,1,1,,,,,,,,0
+9,LMB,225,,AF,,,,1,1,,,,,,,,0
+10,LMB,412,,AF,,,,1,1,,,,,,,,0

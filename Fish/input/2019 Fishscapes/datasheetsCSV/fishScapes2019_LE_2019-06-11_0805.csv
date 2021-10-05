@@ -1,0 +1,20 @@
+projectID,37,,,,,,,,,,,,,,,
+lakeID,LE,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,
+dataTimeSet,6/11/2019 5:50,,,,,,,,,,,,,,,
+dateTimeSample,6/11/2019 8:05,,,,,,,,,,,,,,,
+crew,"CD, AMK",,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,
+effort,2.25,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,
+comments,super foggy,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,
+dataRecorder,CD,,,,,,,,,,,,,,,
+dataEnteredBy,AL,,,,,,,,,,,,,,,
+metadataID,Fishscapes.Angling.20180625,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,dietSampled
+1,LMB,440,,AF,,,,,,,,,,,AMK,0
+2,BCP,315,,,,,,,,,,,,,CD,0

@@ -1,0 +1,27 @@
+lakeID,BO,,moeties,PML,Hypo,Outlet,Inlet1,Inlet2,Inlet3,point
+site,DeepHole,,unfiltered,1,1,0,0,0,0,0
+date,20200812,,filtered,1,1,0,0,0,0,0
+time,1055,,chloro,2,2,0,0,0,0,0
+projectID,17,,POC,1,1,0,0,0,0,0
+weather,sunny hot sweaty,,DOC,2,2,0,0,0,0,0
+crew,RN and CS,,DNA,2,2,0,0,0,0,0
+metadataID,Limno.Sample.20160505,,color,1,1,0,0,0,0,0
+zoop tow depth,2,,Volumes filtered,PML,Hypo,Outlet,Inlet1,Inlet2,Inlet3,point
+comments,Deck PAR 1741.0 and PML is just zero meters because it was 2 degrees cooler than surface at only 0.5m ,,chloro,450,250,0,0,0,0,0
+,height,units,POC,100,60,0,0,0,0,0
+lake_staffGauge,NA,ft,DNA,200,150,0,0,0,0,0
+Inlet1_staffGauge,NA,cm,,,,,,,,
+Inlet2_staffGauge,NA,cm,,,,,,,,
+Inlet3_staffGauge,NA,cm,,,,,,,,
+Outlet_staffGauge,NA,cm,,,,,,,,
+depth,temp,DOmgL,Dosat,SpC,pH,ORP,PAR,PML,Hypo,point
+0,24.4,6.65,79.3,41,6.68,217.1,1093,1,NA,NA
+0.25,,,,,,,368.9,NA,NA,NA
+0.5,22.4,6.54,75.5,40.9,6.81,219.5,211.1,NA,NA,NA
+0.75,,,,,,,94.1,NA,NA,NA
+1,19.7,1.19,13,44.3,6.63,228.5,30.84,NA,NA,NA
+1.5,15.7,1.32,13.5,59.1,6.31,235.6,2.89,NA,NA,NA
+2,12.4,1.6,15,84.6,6.3,168.2,,NA,1,NA
+2.5,9.9,1.96,17.2,106.2,6.37,133.2,,NA,NA,NA
+3,8.2,2.14,18.1,131.4,6.42,96.3,,NA,NA,NA
+3.5,7.1,2.23,18.5,154.4,6.42,82.2,,NA,NA,NA

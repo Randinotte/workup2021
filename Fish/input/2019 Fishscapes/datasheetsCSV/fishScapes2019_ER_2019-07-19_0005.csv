@@ -1,0 +1,44 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,ER,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,7/18/2019 23:50,,,,,,,,,,,,,,,,
+dateTimeSample,7/19/2019 0:05,,,,,,,,,,,,,,,,
+crew,"FF, JP, CD",,,,,,,,,,,,,,,,
+gear,BE,,,,,,,,,,,,,,,,
+distanceShocked,0.42,,,,,,,,,,,,,,,,
+effort,0.25,,,,,,,,,,,,,,,,
+effortUnits,electrofishing_hours,,,,,,,,,,,,,,,,
+comments,,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,CD,,,,,,,,,,,,,,,,
+dataEnteredBy,JP,,,,,,,,,,,,,,,,
+metadataID,FishscapesSurvey0.5mile.20180606,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,PKS,136,,,,,,,,,,,,,,,0
+2,GDS,116,,,,,,,,,,,,,,,0
+3,GDS,101,,,,,,,,,,,,,,,0
+4,GDS,91,,,,,,,,,,,,,,,0
+5,GDS,88,,,,,,,,,,,,,,,0
+6,GDS,96,,,,,,,,,,,,,,,0
+7,GDS,82,,,,,,,,,,,,,,,0
+8,BLG,56,,,,,,,,,,,,,,,0
+9,NPK,346,,,,,,,,,,,,,,,0
+10,GDS,107,,,,,,,,,,,,,,,0
+11,PKS,114,,,,,,,,,,,,,,,0
+12,GDS,64,,,,,,,,,,,,,,,0
+13,GDS,68,,,,,,,,,,,,,,,0
+14,PKS,166,,,,,,,,,,,,,,,0
+15,YWP,142,,,,,,,,,,,,,,,0
+16,BLG,54,,,,,,,,,,,,,,,0
+17,PKS,131,,,,,,,,,,,,,,,0
+18,YWP,147,,,,,,,,,,,,,,,0
+19,GDS,67,,,,,,,,,,,,,,,0
+20,GDS,82,,,,,,,,,,,,,,,0
+21,GDS,65,,,,,,,,,,,,,,,0
+22,GDS,77,,,,,,,,,,,,,,,0
+23,PKS,73,,,,,,,,,,,,,,,0
+24,PKS,144,,,,,,,,,,,,,,,0
+25,GDS,55,,,,,,,,,,,,,,,0
+26,GDS,76,,,,,,,,,,,,,,,0

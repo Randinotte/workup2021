@@ -1,0 +1,20 @@
+projectID,37,,,,,,,,,,,,,,,
+lakeID,ID,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,
+dataTimeSet,5/28/2019 23:55,,,,,,,,,,,,,,,
+dateTimeSample,5/29/2019 0:05,,,,,,,,,,,,,,,
+crew,"CD,DS,AL,JC,JP",,,,,,,,,,,,,,,
+gear,BE,,,,,,,,,,,,,,,
+distanceShocked,0.3,,,,,,,,,,,,,,,
+effort,0.166666667,,,,,,,,,,,,,,,
+effortUnits,electrofishing_hours,,,,,,,,,,,,,,,
+comments,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,
+dataRecorder,AL,,,,,,,,,,,,,,,
+dataEnteredBy,MS,,,,,,,,,,,,,,,
+metadataID,FishscapesSurvey0.5mile.20180606,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,dietSampled
+1,YWP,136,,,,,,,,,,,,,,0
+2,CMM,86,,,,,,,,,,,,,,0

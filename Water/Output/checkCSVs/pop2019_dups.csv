@@ -1,0 +1,28 @@
+sample,abs,df,runID,POPinBottle,projectID,lakeID,site,dateSample,timeSample,depthClass,depthTop,depthBottom,volFiltered,replicate,comments,sampleID,POP,RandiComments
+P181,0.391,1,Run1_POP_2019.xlsx,61.45601447,17,HB,Outlet,7/19/2019,10:44,Surface,0,0,140,1,,HB_Outlet_20190719_1044_Surface_0_Limno.Sample.20160505,13.16914596,TRUE
+P294,0.237,1,Run4_POP_2019.xlsx,40.84459864,37,DY,DeepHole,8/28/2019,13:45,Surface,0,0,120,1,,DY_DeepHole_20190828_1345_Surface_0_fishScapesLimno.20190319,10.21114966,TRUE
+P299,0.405,1,Run1_POP_2019.xlsx,63.56346548,34,PA,DeepHole,8/29/2019,8:55,Hypo,7.5,7.5,60,1,,PA_DeepHole_20190829_855_Hypo_7.5_Limno.Sample.20160505,31.78173274,TRUE
+P325,0.252,1,Run1_POP_2019.xlsx,40.53203663,15,MO,Inlet3,10/6/2019,12:33,Surface,0,0,140,1,,MO_Inlet3_20191006_1233_Surface_0_Limno.Sample.20160505,8.685436421,TRUE
+P34,0.526,1,Run4_POP_2019.xlsx,90.40205655,15,MO,Inlet2,5/23/2019,9:52,Surface,0,0,140,1,,MO_Inlet2_20190523_952_Surface_0_Limno.Sample.20160505,19.37186926,TRUE
+P294,0.244,1,Run2_POP_2019.xlsx,35.7718985,37,DY,DeepHole,8/28/2019,13:45,Surface,0,0,120,1,,DY_DeepHole_20190828_1345_Surface_0_fishScapesLimno.20190319,8.942974624,Actually P249
+P64,0.644,1,Run5_POP_2019.xlsx,110.7566784,15,PA,DeepHole,6/5/2019,9:30,Hypo,6.5,6.5,140,1,,PA_DeepHole_20190605_930_Hypo_6.5_Limno.Sample.20160505,23.73357394,TRUE
+P299,0.322,1,Run2_POP_2019.xlsx,46.40524168,34,PA,DeepHole,8/29/2019,8:55,Hypo,7.5,7.5,60,1,,PA_DeepHole_20190829_855_Hypo_7.5_Limno.Sample.20160505,23.20262084,Actually P229
+P325,0.577,1,Run4_POP_2019.xlsx,99.14749031,15,MO,Inlet3,10/6/2019,12:33,Surface,0,0,140,1,,MO_Inlet3_20191006_1233_Surface_0_Limno.Sample.20160505,21.24589078,Actually P225
+P168,0.393,1,Run4_POP_2019.xlsx,67.59533717,3,CR,DeepHole,7/18/2019,8:33,PML,0,3,140,1,rerun,CR_DeepHole_20190718_833_PML_3_Limno.Sample.20160505,14.48471511,furnace twice
+P168,0.181,1,Run6_POP_2019.xlsx,30.90009849,3,CR,DeepHole,7/18/2019,8:33,PML,0,3,140,1,rerun,CR_DeepHole_20190718_833_PML_3_Limno.Sample.20160505,6.621449676,furnace twice
+P181,0.233,1,Run6_POP_2019.xlsx,39.42924311,17,HB,Outlet,7/19/2019,10:44,Surface,0,0,140,1,,HB_Outlet_20190719_1044_Surface_0_Limno.Sample.20160505,8.449123523,"??? Could be 15, 38, 220"
+P34,0.118,1,Run5_POP_2019.xlsx,19.62983943,15,MO,Inlet2,5/23/2019,9:52,Surface,0,0,140,1,,MO_Inlet2_20190523_952_Surface_0_Limno.Sample.20160505,4.206394164,???
+P64,0.195,1,Run6_POP_2019.xlsx,33.19640665,15,PA,DeepHole,6/5/2019,9:30,Hypo,6.5,6.5,140,1,,PA_DeepHole_20190605_930_Hypo_6.5_Limno.Sample.20160505,7.113515712,???
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Missing,,,,,,,,,,,,,,,,,,
+P15,6,,Remove,,,,,,,,,,,,,,,
+P38,6,,P168_Run4,dup,,,,,,,,,,,,,,
+P81,2*,,P168_Run6,dup,,,,,,,,,,,,,,
+P88,2*,,P181_Run6,dup,,,,,,,,,,,,,,
+P220,6,,P34_Run5,dup,,,,,,,,,,,,,,
+P311,5,,,,,,,,,,,,,,,,,
+P332,none,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+*P81 and P88 not written down,,,,,,,,,,,,,,,,,,

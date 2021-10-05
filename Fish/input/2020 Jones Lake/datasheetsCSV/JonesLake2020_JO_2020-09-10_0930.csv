@@ -1,0 +1,62 @@
+﻿projectID,41,,,,,,,,,,,,,,,,
+lakeID,JO,,,,,,,,,,,,,,,,
+siteName,FN6,,,,,,,,,,,,,,,,
+dataTimeSet,9/9/2020 15:20,,,,,,,,,,,,,,,,
+dateTimeSample,9/10/2020 9:30,,,,,,,,,,,,,,,,
+crew,"CD, CM",,,,,,,,,,,,,,,,
+gear,FN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,18.17,,,,,,,,,,,,,,,,
+effortUnits,trap_hours,,,,,,,,,,,,,,,,
+comments,mini fyke,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,CD,,,,,,,,,,,,,,,,
+dataEnteredBy,CM,,,,,,,,,,,,,,,,
+metadataID,JoneslakeExperiment.20200607,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2020_JonesLake_Experiment ,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,315,278,,UC,,,,,,900.22600169768,,pit,,,,0
+2,BLG,37,,,,1,,,,,,,,,,,0
+3,BLG,39,,,,,,,,,,,,,,too small to clip,0
+4,BLG,37,,,,,,,,,,,,,,too small to clip,0
+5,BLG,44,,,,,,,,,,,,,,too small to clip,0
+6,BLG,69,,AF,,,,,,,,,,,,,0
+7,BLG,73,,AF,,,,,,,,,,,,,0
+8,BLG,95,,AF,,,,,,,,,,,,,0
+9,BLG,73,,AF,,,,,,,,,,,,,0
+10,BLG,74,,AF,,,,,,,,,,,,,0
+11,BLG,66,,AF,,,,,,,,,,,,,0
+12,BLG,100,,,AF,,,,,,,,,,,,0
+13,BLG,68,,AF,,,,,,,,,,,,,0
+14,BLG,75,,AF,,,,,,,,,,,,,0
+15,LMB,96,11,,,,,,,,,,,,,,0
+16,LMB,79,6,,,,,,,,,,,,,,0
+17,BLG,37,,,,,,,,,,,,,,too small to clip,0
+18,BLG,72,,AF,,,,,,,,,,,,,0
+19,BLG,94,,AF,,,,,,,,,,,,,0
+20,BLG,99,,AF,,,,,,,,,,,,,0
+21,BLG,65,,AF,,,,,,,,,,,,,0
+22,BLG,96,,AF,,,,,,,,,,,,,0
+23,BLG,98,,AF,,,,,,,,,,,,,0
+24,BLG,68,,AF,,,,,,,,,,,,,0
+25,LMB,81,6,,,,,,,,,,,,,,0
+26,LMB,92,8,,,,,,,,,,,,,,0
+27,LMB,93,10,,,,,,,,,,,,,,0
+28,LMB,82,7,,,,,,,,,,,,,,0
+29,LMB,76,5,,,,,,,,,,,,,,0
+30,BLG,69,,AF,,,,,,,,,,,,,0
+31,BLG,88,,AF,,,,,,,,,,,,,0
+32,BLG,76,,AF,,,,,,,,,,,,,0
+33,BLG,40,,,,,,,,,,,,,,too small to clip,0
+34,BLG,74,,,AF,,,,,,,,,,,,0
+35,BLG,71,,AF,,,,,,,,,,,,,0
+36,BLG,68,,AF,,,,,,,,,,,,,0
+37,LMB,75,4,,,,,,,,,,,,,,0
+38,LMB,88,7,,,,,,,,,,,,,,0
+39,LMB,98,10,,,,,,,,,,,,,,0
+40,LMB,79,6,,,,,,,,,,,,,,0
+41,BLG,40,,,,,,,,,,,,,,too small to clip,0
+42,BLG,77,,AF,,,,,,,,,,,,,0
+43,LMB,100,11,,,,,,,,,,,,,,0
+44,BLG,70,,AF,,,,,,,,,,,,,0

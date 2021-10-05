@@ -1,0 +1,50 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,DS,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,8/2/2019 0:55,,,,,,,,,,,,,,,,
+dateTimeSample,8/2/2019 1:15,,,,,,,,,,,,,,,,
+crew,"DS,MS,SL,GM",,,,,,,,,,,,,,,,
+gear,BE,,,,,,,,,,,,,,,,
+distanceShocked,0.69,,,,,,,,,,,,,,,,
+effort,0.33,,,,,,,,,,,,,,,,
+effortUnits,electrofishing_hours,,,,,,,,,,,,,,,,
+comments,Fishscapes loves monitoring and Danny stopped it before it hit point 7 RIP,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,MS,,,,,,,,,,,,,,,,
+dataEnteredBy,DS,,,,,,,,,,,,,,,,
+metadataID,FishscapesSurvey.1.5mile.20180607,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,WLY,313,,,,,,,,,,,,,,,0
+2,PKS,182,,,,,,,,,,,,,,,0
+3,LMB,282,,AF,,,,,,,,,,,,,0
+4,BLG,178,,,,,,,,,,,,,,,0
+5,BLG,180,,,,,,,,,,,,,,,0
+6,BLG,202,,,,,,,,,,,,,,,0
+7,LMB,299,,,AF,,,,,,,,,,,,0
+8,RKB,240,,,,,,,,,,,,,,,0
+9,BLG,196,,,,,,,,,,,,,,,0
+10,BLG,183,,,,,,,,,,,,,,,0
+11,BLG,183,,,,,,,,,,,,,,,0
+12,PKS,195,,,,,,,,,,,,,,,0
+13,BLG,165,,,,,,,,,,,,,,,0
+14,RKB,203,,,,,,,,,,,,,,Fed dis guy a bug and he spat it out,0
+15,BLG,194,,,,,,,,,,,,,,,0
+16,PKS,167,,,,,,,,,,,,,,,0
+17,LMB,279,,AF,,,,,,,,,,,,,0
+18,BLG,195,,,,,,,,,,,,,,,0
+19,BLG,167,,,,,,,,,,,,,,,0
+20,RKB,175,,,,,,,,,,,,,,,0
+21,LMB,372,,AF,,,,,,,,,,,,Mary guessed dis guys length exactly WAYHO,0
+22,BLG,183,,,,,,,,,,,,,,,0
+23,BLG,192,,,,,,,,,,,,,,,0
+24,NPK,344,,,,,,,,,,,,,,,0
+25,LMB,267,,,AF,,,,,,,,,,,,0
+26,BLG,196,,,,,,,,,,,,,,,0
+27,BLG,185,,,,,,,,,,,,,,,0
+28,BLG,170,,,,,,,,,,,,,,,0
+29,BLG,183,,,,,,,,,,,,,,,0
+30,LMB,295,,AF,,,,,,,,,,,,,0
+31,LMB,344,,,AF,,,,,,,,,,,,0
+32,WSK,297,,,,,,,,,,,,,,Police came and asked if we had any good fish Danny showed him this also took pics of nose bops,0

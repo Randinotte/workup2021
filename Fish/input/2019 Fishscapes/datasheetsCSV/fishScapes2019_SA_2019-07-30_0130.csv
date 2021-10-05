@@ -1,0 +1,25 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,SA,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,7/30/2019 0:50,,,,,,,,,,,,,,,,
+dateTimeSample,7/30/2019 1:30,,,,,,,,,,,,,,,,
+crew,"DS,MS,AL",,,,,,,,,,,,,,,,
+gear,BE,,,,,,,,,,,,,,,,
+distanceShocked,1.35,,,,,,,,,,,,,,,,
+effort,0.67,,,,,,,,,,,,,,,,
+effortUnits,electrofishing_hours,,,,,,,,,,,,,,,,
+comments,windy and shallow rocks kept us deep,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,DS,,,,,,,,,,,,,,,,
+dataEnteredBy,DS,,,,,,,,,,,,,,,,
+metadataID,FishscapesSurvey.1.5mile.20180607,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,BLG,170,,,,,,,,,,,,,,,0
+2,BLG,165,,,,,,,,,,,,,,,0
+3,SMB,225,,AF,,,,,,,,,,,,,0
+4,WLY,520,,,,,,,,,,,,,,,0
+5,BLG,175,,,,,,,,,,,,,,,0
+6,BLG,184,,,,,,,,,,,,,,,0
+7,SMB,340,,AF,,,,,,,,,,,,,0

@@ -1,0 +1,34 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,AQ,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,8/5/2019 23:05,,,,,,,,,,,,,,,,
+dateTimeSample,8/5/2019 23:55,,,,,,,,,,,,,,,,
+crew,"MS,DS,CL,KW",,,,,,,,,,,,,,,,
+gear,BE,,,,,,,,,,,,,,,,
+distanceShocked,1.3,,,,,,,,,,,,,,,,
+effort,0.83,,,,,,,,,,,,,,,,
+effortUnits,electrofishing_hours,,,,,,,,,,,,,,,,
+comments,Danny wanted to immortalize Carson Kennerly Lambert and Kayla Elaine Wensing in the database because they were great,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,MS,,,,,,,,,,,,,,,,
+dataEnteredBy,DS,,,,,,,,,,,,,,,,
+metadataID,FishscapesSurvey.hotBassLap.20180607,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,375,,AF,,,,1,1,,,,,,,,0
+2,LMB,271,,AF,,,,1,1,,,,,,,,0
+3,LMB,206,,AF,,,,1,1,,,,,,,,0
+4,SMB,117,,,,,,,,,,,,,,,0
+5,LMB,380,,AF,,,,1,1,,,,,,,,0
+6,LMB,376,,AF,,,,1,1,,,,,,,,0
+7,LMB,415,,AF,,,,1,1,,,,,,,,0
+8,LMB,377,,AF,,,,1,1,,,,,,,,0
+9,LMB,373,,AF,,,,1,1,,,,,,,,0
+10,LMB,322,,AF,,,,1,1,,,,,,,,0
+11,LMB,379,,AF,,,,1,1,,,,,,,,0
+12,LMB,296,,AF,,,,1,1,,,,,,,,0
+13,LMB,275,,AF,,,,1,1,,,,,,,,0
+14,LMB,303,,AF,,,,1,1,,,,,,,,0
+15,LMB,369,,AF,,,,1,1,,,,,,,,0
+16,LMB,325,,AF,,,,1,1,,,,,,,,0

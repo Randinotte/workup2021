@@ -1,0 +1,24 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,LT,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,8/7/2019 0:10,,,,,,,,,,,,,,,,
+dateTimeSample,8/7/2019 1:10,,,,,,,,,,,,,,,,
+crew,"DS,MS,SM,DH",,,,,,,,,,,,,,,,
+gear,BE,,,,,,,,,,,,,,,,
+distanceShocked,2.2,,,,,,,,,,,,,,,,
+effort,1,,,,,,,,,,,,,,,,
+effortUnits,electrofishing_hours,,,,,,,,,,,,,,,,
+comments,Shocked approximately 0 point 3 extra because we missed the boat launch somehow,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,MS,,,,,,,,,,,,,,,,
+dataEnteredBy,DS,,,,,,,,,,,,,,,,
+metadataID,FishscapesSurvey.hotBassLap.20180607,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,319,,AF,,,,1,1,,,,,,,,0
+2,LMB,280,,AF,,,,1,1,,,,,,,,0
+3,LMB,291,,AF,,,,1,1,,,,,,,,0
+4,LMB,289,,AF,,,,1,1,,,,,,,,0
+5,LMB,380,,AF,,,,1,1,,,,,,,,0
+6,LMB,54,,,,,,,,,,,,,,,0

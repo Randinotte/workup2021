@@ -1,0 +1,37 @@
+﻿projectID,41,,,,,,,,,,,,,,,,
+lakeID,JO,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,6/23/20 15:04,,,,,,,,,,,,,,,,
+dateTimeSample,6/24/20 13:15,,,,,,,,,,,,,,,,
+crew,"CM, AL",,,,,,,,,,,,,,,,
+gear,FN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,22.18,,,,,,,,,,,,,,,,
+effortUnits,trap_hours,,,,,,,,,,,,,,,,
+comments,"hoops fell, broken motor, SNAPPING TURTLE",,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,CM,,,,,,,,,,,,,,,,
+dataEnteredBy,AL,,,,,,,,,,,,,,,,
+metadataID,JonesLakeExperiment.20200607,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2020_JonesLake_Experiment,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,329,,UC,,,,,,,,,,,,"bad eye, in shock (snapper), UC",0
+2,LMB,323,,UC,,,,,,900.067000152062,,,,,,,0
+3,BLG,190,,AF,,,,,,,,,,,,,0
+4,BLG,147,,AF,,,,,,,,,,,,,0
+5,BLG,156,,AF,,,,,,,,,,,,,0
+6,BLG,132,,AF,,,,,,,,,,,,,0
+7,BLG,170,,AF,,,,,,,,,,,,,0
+8,BLG,147,,AF,,,,,,,,,,,,,0
+9,BLG,170,,AF,,,,,,,,,,,,,0
+10,BLG,187,,AF,,,,,,,,,,,,,0
+11,BLG,160,,AF,,,,,,,,,,,,,0
+12,BLG,172,,AF,,,,,,,,,,,,,0
+13,BLG,201,,AF,,,,,,,,,,,,,0
+14,BLG,177,,AF,,,,,,,,,,,,,0
+15,BLG,149,,AF,,,,,,,,,,,,,0
+16,BLG,200,,AF,,,,,,,,,,,,,0
+17,BLG,145,,AF,,,,,,,,,,,,,0
+18,BLG,211,,AF,,,,,,,,,,,,,0
+19,BLG,150,,AF,,,,,,,,,,,,,0

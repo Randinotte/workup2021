@@ -1,0 +1,30 @@
+projectID,37,,,,,,,,,,,,,,,
+lakeID,ID,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,
+dataTimeSet,5/28/2019 22:15,,,,,,,,,,,,,,,
+dateTimeSample,5/28/2019 22:50,,,,,,,,,,,,,,,
+crew,"CD, DS, AL, JC, JP",,,,,,,,,,,,,,,
+gear,BE,,,,,,,,,,,,,,,
+distanceShocked,0.5,,,,,,,,,,,,,,,
+effort,0.583333333,,,,,,,,,,,,,,,
+effortUnits,electrofishing_hours,,,,,,,,,,,,,,,
+comments,fun boat ride in reminded colin of camp lake road tough boat launch but we threaded the needle,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,
+dataRecorder,JC,,,,,,,,,,,,,,,
+dataEnteredBy,MS,,,,,,,,,,,,,,,
+metadataID,FishscapesSurvey.0.5mile.20180606,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,dietSampled
+1,YWP,149,,,,,,,,,,,,,,0
+2,YWP,120,,,,,,,,,,,,,,0
+3,YWP,121,,,,,,,,,,,,,,0
+4,YWP,111,,,,,,,,,,,,,,0
+5,YWP,130,,,,,,,,,,,,,,0
+6,YWP,121,,,,,,,,,,,,,,0
+7,YWP,121,,,,,,,,,,,,,,0
+8,YWP,124,,,,,,,,,,,,,,0
+9,YWP,125,,,,,,,,,,,,,,0
+10,YWP,142,,,,,,,,,,,,,,0
+11,CMM,80,,,,,,,,,,,,,,0
+12,CMM,58,,,,,,,,,,,,,,0

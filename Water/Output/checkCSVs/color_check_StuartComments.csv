@@ -1,0 +1,3 @@
+,projectID,sampleID,lakeID,siteName,dateSample,dateTimeSample,depthClass,depthTop,depthBottom,abs440,g440,metadataID,comments,flag,updateID,check
+73,15,MO_Inlet1_20200706_0901_Surface_0_Limno.Sample.20160505,MO,Inlet1,7/6/2020,7/6/2020 9:01,Surface,0,0,0.874,20.13,Color.20110601,High,1,TBD,1
+74,15,MO_Inlet2_20200706_0901_Surface_0_Limno.Sample.20160505,MO,Inlet2,7/6/2020,7/6/2020 9:01,Surface,0,0,0.232,5.34,Color.20110601,NA,0,TBD,1

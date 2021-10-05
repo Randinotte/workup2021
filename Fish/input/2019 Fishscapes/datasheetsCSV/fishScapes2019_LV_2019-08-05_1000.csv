@@ -1,0 +1,23 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,LV,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,8/5/2019 5:40,,,,,,,,,,,,,,,,
+dateTimeSample,8/5/2019 10:00,,,,,,,,,,,,,,,,
+crew,"AT, FF, AMK",,,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,3.92,,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,,
+comments,lil arb smiley face break 840 to 905,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,AT,,,,,,,,,,,,,,,,
+dataEnteredBy,MS,,,,,,,,,,,,,,,,
+metadataID,Fishscapes.Angling.20180625,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,SMB,268,,AF,,,,,,,,,,,FF,,0
+2,SMB,415,,AF,,,,,,,,,,,AT,,0
+3,SMB,299,,AF,,,,,,,,,,,AT,,0
+4,SMB,270,,AF,,,,,,,,,,,AT,,0
+5,SMB,254,,AF,,,,,,,,,,,AT,,0

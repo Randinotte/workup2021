@@ -1,0 +1,28 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,UG,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,8/7/2019 21:30,,,,,,,,,,,,,,,,
+dateTimeSample,8/7/2019 22:20,,,,,,,,,,,,,,,,
+crew,"DS, MS, AT",,,,,,,,,,,,,,,,
+gear,BE,,,,,,,,,,,,,,,,
+distanceShocked,1.5,,,,,,,,,,,,,,,,
+effort,0.83,,,,,,,,,,,,,,,,
+effortUnits,electrofishing_hours,,,,,,,,,,,,,,,,
+comments,,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,MS,,,,,,,,,,,,,,,,
+dataEnteredBy,MS,,,,,,,,,,,,,,,,
+metadataID,FishscapesSurvey.hotBassLap.20180607,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,295,,AF,,,,,,,,,,,,,0
+2,LMB,277,,AF,,,,,,,,,,,,,0
+3,LMB,354,,,AF,,,,,,,,,,,WAYHO,0
+4,LMB,221,,AF,,,,,,,,,,,,,0
+5,LMB,222,,AF,,,,,,,,,,,,1 eye larry,0
+6,LMB,135,,,,,,,,,,,,,,,0
+7,LMB,235,,AF,,,,,,,,,,,,,0
+8,LMB,46,,,,,,,,,,,,,,,0
+9,LMB,233,,,AF,,,,,,,,,,,,0
+10,LMB,146,,,,,,,,,,,,,,,0

@@ -1,0 +1,25 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,BY,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,8/13/2019 13:35,,,,,,,,,,,,,,,,
+dateTimeSample,8/13/2019 15:05,,,,,,,,,,,,,,,,
+crew,"MS,ALK",,,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,1.5,,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,,
+comments,cloudy windy coldish,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,ALK,,,,,,,,,,,,,,,,
+dataEnteredBy,CD,,,,,,,,,,,,,,,,
+metadataID,Fishscapes.Angling.20180625,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,362,,,AF,,,,,,,,,,MS,WAYHO,0
+2,LMB,372,,,AF,,,,,,,,,,ALK,WAYHO,0
+3,LMB,359,,AF,,,,,,,,,,,MS,,0
+4,LMB,331,,AF,,,,,,,,,,,ALK,,0
+5,LMB,,,AF,,,,,,,,,,,ALK,,0
+6,LMB,268,,,AF,,,,,,,,,,MS,,0
+7,LMB,355,,AF,,,,,,,,,,,ALK,secret agent bass,0

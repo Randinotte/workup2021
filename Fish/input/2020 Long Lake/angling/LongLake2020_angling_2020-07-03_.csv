@@ -1,0 +1,20 @@
+projectID,3,,,,,,,,,,,,,,,,
+lakeID,,,,,,,,,,,,,,,,,
+siteName,WholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,7/3/20 0:00,,,,,,,,,,,,,,,,
+dateTimeSample,7/3/20 0:00,,,,,,,,,,,,,,,,
+crew,JB AA,,,,,,,,,,,,,,,,
+gear,NA,,,,,,,,,,,,,,,,
+distanceShocked,NA,,,,,,,,,,,,,,,,
+effort,NA,,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,,
+comments,picked up dead fish from the edge of the lake weights not accurate,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,AA,,,,,,,,,,,,,,,,
+dataEnteredBy,AA,,,,,,,,,,,,,,,,
+metadataID,MarkRecap.20120228,,,,,,,,,,,,,,,,
+useSampleMarkRecap,no,,,,,,,,,,,,,,,,
+sampleGroup,NA,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,315,366,,,1,,,,,178752244,,pit,,,dead weight not accurate,0
+2,LMB,345,381,,,1,,,,,177417872,,pit,,,dead weight not accurate,0

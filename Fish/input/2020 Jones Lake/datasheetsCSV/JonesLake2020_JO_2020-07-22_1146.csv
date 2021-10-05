@@ -1,0 +1,30 @@
+projectID,41,,,,,,,,,,,,,,,
+lakeID,JO,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,
+dataTimeSet,7/22/2020 9:35,,,,,,,,,,,,,,,
+dateTimeSample,7/22/2020 11:46,,,,,,,,,,,,,,,
+crew,"CM, AL",,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,
+effort,2.18,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,
+comments,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,
+dataRecorder,CM,,,,,,,,,,,,,,,
+dataEnteredBy,CD,,,,,,,,,,,,,,,
+metadataID,JonesLakeExperiment.20200607,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,
+sampleGroup,2020_JonesLake_Experiment,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,gpsWaypoint,caughtBy,comments,dietSampled
+1,LMB,331,437,UC,,,,900.226001622416,,pit,,,22,AL,,1
+2,LMB,314,381,UC,,,,900.226001622352,,pit,,,23,CM,,1
+3,LMB,271,225,,UC,,,,900.067000152363,,pit,,24,AL,,1
+4,LMB,347,383,,UC,,,,900.226001619950,,pit,,25,AL,,1
+5,LMB,315,303,,UC,,,,900.226001619912,,pit,,26,AL,,1
+6,LMB,279,231,UC,,,,900.226001622355,,pit,,,27,CM,,1
+7,LMB,286,247,UC,,,,900.226001622268,,pit,,,28,AL,,1
+8,LMB,324,360,,UC,,,900.226001622360,,pit,,,29,CM,,1
+9,LMB,272,215,UC,,,,900.226001622422,,pit,,,,CM,,1
+10,LMB,258,195,UC,,,,900.226001622496,,pit,,,30,AL,,1
+11,LMB,298,269,UC,,,,900.226001622405,,pit,,,31,AL,,0
+12,LMB,309,280,,UC,,,,900.067000152344,,pit,,32,AL,,0

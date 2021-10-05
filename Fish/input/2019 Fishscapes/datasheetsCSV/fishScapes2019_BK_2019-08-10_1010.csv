@@ -1,0 +1,55 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,BK,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,8/10/2019 6:10,,,,,,,,,,,,,,,,
+dateTimeSample,8/10/2019 10:10,,,,,,,,,,,,,,,,
+crew,"ALK, CI, MS",,,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,4,,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,,
+comments,,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,CI,,,,,,,,,,,,,,,,
+dataEnteredBy,CD,,,,,,,,,,,,,,,,
+metadataID,Fishscapes.Angling.20180625,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,345,,AF,,,,,,,,,,,CI,,0
+2,LMB,335,,AF,,,,,,,,,,,ALK,,0
+3,LMB,297,,AF,,,,,,,,,,,ALK,,0
+4,LMB,,,AF,,,,,,,,,,,ALK,lost before measure,0
+5,LMB,286,,AF,,,,,,,,,,,ALK,,0
+6,LMB,,,AF,,,,,,,,,,,ALK,lost before measure   HALF CLIPPED,0
+7,LMB,285,,AF,,,,,,,,,,,CI,,0
+8,LMB,366,,AF,,,,,,,,,,,MS,,0
+9,LMB,242,,AF,,,,,,,,,,,ALK,,0
+10,LMB,272,,AF,,,,,,,,,,,ALK,,0
+11,LMB,386,,AF,,,,,,,,,,,ALK,,0
+12,LMB,395,,AF,,,,,,,,,,,MS,,0
+13,LMB,330,,AF,,,,,,,,,,,ALK,,0
+14,LMB,274,,AF,,,,,,,,,,,CI,,0
+15,LMB,249,,AF,,,,,,,,,,,ALK,,0
+16,LMB,410,,AF,,,,,,,,,,,MS,,0
+17,LMB,373,,AF,,,,,,,,,,,MS,,0
+18,LMB,219,,AF,,,,,,,,,,,MS,,0
+19,LMB,356,,AF,,,,,,,,,,,ALK,,0
+20,LMB,309,,AF,,,,,,,,,,,ALK,,0
+21,LMB,,,AF,,,,,,,,,,,ALK,lost before measure,0
+22,LMB,348,,AF,,,,,,,,,,,MS,,0
+23,LMB,493,,,AF,,,,,,,,,,ALK,,0
+24,LMB,330,,AF,,,,,,,,,,,MS,,0
+25,LMB,269,,AF,,,,,,,,,,,MS,,0
+26,LMB,213,,AF,,,,,,,,,,,CI,,0
+27,LMB,264,,AF,,,,,,,,,,,ALK,,0
+28,LMB,310,,AF,,,,,,,,,,,CI,,0
+29,LMB,250,,AF,,,,,,,,,,,MS,,0
+30,LMB,362,,AF,,,,,,,,,,,ALK,,0
+31,LMB,252,,AF,,,,,,,,,,,MS,,0
+32,LMB,286,,AF,,,,,,,,,,,ALK,,0
+33,LMB,292,,AF,,,,,,,,,,,ALK,,0
+34,LMB,266,,AF,,,,,,,,,,,ALK,,0
+35,LMB,385,,AF,,,,,,,,,,,MS,,0
+36,LMB,291,,AF,,,,,,,,,,,CI,,0
+37,LMB,,,AF,,,,,,,,,,,ALK,lost before measure,0

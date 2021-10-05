@@ -1,0 +1,42 @@
+lakeID,BR,,moeties,PML,Hypo,Outlet,Inlet1,Inlet2,Inlet3,point
+site,DeepHole,,unfiltered,1,1,0,0,0,0,0
+date,20200615,,filtered,1,1,0,0,0,0,0
+time,1142,,chloro,2,2,0,0,0,0,0
+projectID,17,,POC,1,1,0,0,0,0,0
+weather,overcast,,DOC,2,2,0,0,0,0,0
+crew,RN and CS,,DNA,2,2,0,0,0,0,0
+metadataID,Limno.Sample.20160505,,color,1,1,0,0,0,0,0
+zoop tow depth,4,,Volumes filtered,PML,Hypo,Outlet,Inlet1,Inlet2,Inlet3,point
+comments,Deck PAR 443.2 installed new DeepHole buoy old DeepHole buoy a few inches underwater could not find,,chloro,450,450,0,0,0,0,0
+,height,units,POC,120,120,0,0,0,0,0
+lake_staffGauge,NA,ft,DNA,250,250,0,0,0,0,0
+Inlet1_staffGauge,NA,cm,,,,,,,,
+Inlet2_staffGauge,NA,cm,,,,,,,,
+Inlet3_staffGauge,NA,cm,,,,,,,,
+Outlet_staffGauge,NA,cm,,,,,,,,
+depth,temp,DOmgL,Dosat,SpC,pH,ORP,PAR,PML,Hypo,point
+0,18.4,9.01,96.1,120.5,7.9,165,231.5,1,NA,NA
+0.25,,,,,,,148.44,NA,NA,NA
+0.5,18.4,9.01,96,120.5,8.05,172.8,65.09,NA,NA,NA
+0.75,,,,,,,41.7,NA,NA,NA
+1,18.4,8.91,94.4,120.5,7.81,196.9,34,1,NA,NA
+1.5,18.4,8.79,94.4,120.6,7.8,205.8,18,NA,NA,NA
+2,18.1,8.42,88.6,120.9,7.77,210.6,7.26,1,NA,NA
+2.5,17,7.58,77.8,119.4,7.65,217.7,3.52,NA,NA,NA
+3,16,5.05,50.4,122.6,7.51,223.5,,NA,NA,NA
+3.5,13,1.8,17.3,126.6,7.33,228.9,,NA,1,NA
+4,10.6,0.76,6.3,144.5,7.24,160.2,,NA,NA,NA
+4.5,9.9,0.58,5.1,155.4,7.2,64,,NA,NA,NA
+5,9.5,0.58,4.9,179.8,7.18,-38,,NA,NA,NA
+5.5,,,,,,,,NA,NA,NA
+6,,,,,,,,NA,NA,NA
+6.5,,,,,,,,NA,NA,NA
+7,,,,,,,,NA,NA,NA
+7.5,,,,,,,,NA,NA,NA
+8,,,,,,,,NA,NA,NA
+9,,,,,,,,NA,NA,NA
+10,,,,,,,,NA,NA,NA
+11,,,,,,,,NA,NA,NA
+12,,,,,,,,NA,NA,NA
+13,,,,,,,,NA,NA,NA
+14,,,,,,,,NA,NA,NA

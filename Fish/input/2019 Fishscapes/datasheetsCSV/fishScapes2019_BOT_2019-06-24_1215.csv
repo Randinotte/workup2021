@@ -1,0 +1,24 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,BOT,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,6/24/2019 10:33,,,,,,,,,,,,,,,,
+dateTimeSample,6/24/2019 12:15,,,,,,,,,,,,,,,,
+crew,"JC,AK,AT",,,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,1.08,,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,,
+comments,no storm ended because no dingers BC 1108 1145,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,JC,,,,,,,,,,,,,,,,
+dataEnteredBy,JC,,,,,,,,,,,,,,,,
+metadataID,Fishscapes.Angling.20180625,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,363,,AF,,,,,,,,,,,AT,,0
+2,LMB,291,,AF,,,,,,,,,,,AMK,,0
+3,LMB,244,,AF,,,,,,,,,,,AT,,0
+4,LMB,392,,AF,,,,,,,,,,,JC,,0
+5,LMB,375,,AF,,,,,,,,,,,AT,,0
+6,LMB,265,,AF,,,,,,,,,,,AT,,0

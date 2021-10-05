@@ -1,0 +1,97 @@
+projectID,41,,,,,,,,,,,,,,,,
+lakeID,JO,,,,,,,,,,,,,,,,
+siteName,FN1,,,,,,,,,,,,,,,,
+dataTimeSet,8/31/2020 14:20,,,,,,,,,,,,,,,,
+dateTimeSample,9/1/2020 10:35,,,,,,,,,,,,,,,,
+crew,"CM, CD ",,,,,,,,,,,,,,,,
+gear,FN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,20.25,,,,,,,,,,,,,,,,
+effortUnits,trap_hours,,,,,,,,,,,,,,,,
+comments,mini fyke,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,CD,,,,,,,,,,,,,,,,
+dataEnteredBy,CD,,,,,,,,,,,,,,,,
+metadataID,JoneslakeExperiment.20200607,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2020_JonesLake_Experiment ,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,BLG,185,,AF,,,,,,,,,,,,,0
+2,BLG,133,,,AF,,,,,,,,,,,,0
+3,BLG,136,,AF,,,,,,,,,,,,,0
+4,BLG,100,,AF,,,,,,,,,,,,,0
+5,BLG,120,,AF,,,,,,,,,,,,,0
+6,BLG,92,,AF,,,,,,,,,,,,,0
+7,LMB,66,4,,,,,,,,,,,,,,0
+8,LMB,75,5,,,,,,,,,,,,,,0
+9,LMB,76,6,,,,,,,,,,,,,,0
+10,LMB,87,8,,,,,,,,,,,,,,0
+11,LMB,67,4,,,,,,,,,,,,,,0
+12,LMB,75,5,,,,,,,,,,,,,,0
+13,LMB,76,5,,,,,,,,,,,,,,0
+14,LMB,71,4,,,,,,,,,,,,,,0
+15,LMB,71,5,,,,,,,,,,,,,,0
+16,LMB,62,3,,,,,,,,,,,,,,0
+17,LMB,63,3,,,,,,,,,,,,,,0
+18,BLG,36,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+19,BLG,38,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+20,BLG,39,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+21,BLG,43,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+22,BLG,173,,AF,,,,,,,,,,,,,0
+23,BLG,132,,,AF,,,,,,,,,,,,0
+24,BLG,135,,AF,,,,,,,,,,,,,0
+25,BLG,116,,AF,,,,,,,,,,,,,0
+26,BLG,125,,,AF,,,,,,,,,,,,0
+27,BLG,87,,,AF,,,,,,,,,,,,0
+28,BLG,102,,AF,,,,,,,,,,,,,0
+29,BLG,120,,AF,,,,,,,,,,,,,0
+30,BLG,117,,AF,,,,,,,,,,,,,0
+31,LMB,97,12,,,,,,,,,,,,,,0
+32,LMB,87,9,,,,,,,,,,,,,,0
+33,LMB,74,4,,,,,,,,,,,,,,0
+34,LMB,78,5,,,,,,,,,,,,,,0
+35,LMB,86,8,,,,,,,,,,,,,,0
+36,LMB,69,4,,,,,,,,,,,,,,0
+37,LMB,55,3,,,,,,,,,,,,,,0
+38,BLG,40,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+39,BLG,40,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+40,BLG,37,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+41,BLG,38,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+42,BLG,42,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+43,BLG,39,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+44,BLG,36,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+45,BLG,37,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+46,BLG,35,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+47,BLG,38,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+48,BLG,35,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+49,BLG,112,,,AF,,,,,,,,,,,,0
+50,BLG,130,,AF,,,,,,,,,,,,,0
+51,BLG,101,,AF,,,,,,,,,,,,,0
+52,BLG,110,,,AF,,,,,,,,,,,,0
+53,BLG,89,,AF,,,,,,,,,,,,,0
+54,BLG,39,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+55,BLG,34,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+56,LMB,74,4,,,,,,,,,,,,,,0
+57,LMB,64,3,,,,,,,,,,,,,,0
+58,LMB,70,5,,,,,,,,,,,,,,0
+59,LMB,86,7,,,,,,,,,,,,,,0
+60,LMB,76,5,,,,,,,,,,,,,,0
+61,LMB,82,8,,,,,,,,,,,,,,0
+62,LMB,94,12,,,,,,,,,,,,,,0
+63,LMB,73,5,,,,,,,,,,,,,,0
+64,LMB,69,4,,,,,,,,,,,,,,0
+65,LMB,70,4,,,,,,,,,,,,,,0
+66,BLG,115,,AF,,,,,,,,,,,,,0
+67,BLG,74,,AF,,,,,,,,,,,,,0
+68,LMB,63,3,,,,,,,,,,,,,,0
+69,LMB,76,6,,,,,,,,,,,,,,0
+70,BLG,37,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+71,BLG,32,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+72,BLG,36,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+73,BLG,38,,,,1,,,,,,,,,,,0
+74,BLG,60,,AF,,,,,,,,,,,,,0
+75,BLG,34,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+76,BLG,38,,,,1,,,,,,,,,,,0
+77,BLG,37,,,,,,,,,,,,,,TOO SMALL TO CLIP,0
+78,LMB,76,5,,,,,,,,,,,,,,0
+79,LMB,60,3,,,,,,,,,,,,,,0

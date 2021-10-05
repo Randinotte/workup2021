@@ -1,0 +1,24 @@
+projectID,41,,,,,,,,,,,,,,,
+lakeID,JO,,,,,,,,,,,,,,,
+siteName,FN2,,,,,,,,,,,,,,,
+dataTimeSet,7/14/2020 9:51,,,,,,,,,,,,,,,
+dateTimeSample,7/15/2020 9:28,,,,,,,,,,,,,,,
+crew,"CM, AL",,,,,,,,,,,,,,,
+gear,FN,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,
+effort,23.62,,,,,,,,,,,,,,,
+effortUnits,trap_hours,,,,,,,,,,,,,,,
+comments,mini fykes,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,
+dataRecorder,CM,,,,,,,,,,,,,,,
+dataEnteredBy,CD,,,,,,,,,,,,,,,
+metadataID,JonesLakeExperiment.20200607,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,
+sampleGroup,2020_JonesLake_Experiment,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,gpsWaypoint,caughtBy,comments,dietSampled
+1,LMB,315,344,UC,,,,900.226001622319,,pit,,,,,ATE ALL OUR FISH,1
+2,BLG,134,,,,1,1,,,,,,,,,0
+3,BLG,130,,UC,,,,,,,,,,,,0
+4,BLG,174,,UC,,,,,,,,,,,,0
+5,BLG,160,,UC,,,,,,,,,,,,0
+6,BLG,135,,UC,,,,,,,,,,,,0

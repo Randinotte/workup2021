@@ -1,0 +1,34 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,PN,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,7/29/2019 16:00,,,,,,,,,,,,,,,,
+dateTimeSample,7/29/2019 20:00,,,,,,,,,,,,,,,,
+crew,"AT,CM,AMK",,,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,4,,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,,
+comments,,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,AT,,,,,,,,,,,,,,,,
+dataEnteredBy,DS,,,,,,,,,,,,,,,,
+metadataID,Fishscapes.Angling.20180625,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,318,,AF,,,,,,,,,,,AT,,0
+2,LMB,301,,,AF,,,,,,,,,,AT,,0
+3,LMB,338,,AF,,,,,,,,,,,AMK,,0
+4,LMB,308,,AF,,,,,,,,,,,CM,,0
+5,LMB,278,,AF,,,,,,,,,,,AT,,0
+6,LMB,356,,AF,,,,,,,,,,,AMK,,0
+7,LMB,329,,AF,,,,,,,,,,,AT,,0
+8,LMB,243,,AF,,,,,,,,,,,AT,,0
+9,LMB,280,,AF,,,,,,,,,,,AT,,0
+10,LMB,350,,,AF,,,,,,,,,,AT,,0
+11,LMB,288,,AF,,,,,,,,,,,CM,,0
+12,LMB,280,,AF,,,,,,,,,,,CM,,0
+13,LMB,334,,AF,,,,,,,,,,,AMK,,0
+14,LMB,232,,AF,,,,,,,,,,,AT,,0
+15,LMB,350,,AF,,,,,,,,,,,AT,,0
+16,LMB,302,,AF,,,,,,,,,,,AT,,0

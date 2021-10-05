@@ -1,0 +1,34 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,BOT,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,7/17/2019 0:20,,,,,,,,,,,,,,,,
+dateTimeSample,7/17/2019 0:45,,,,,,,,,,,,,,,,
+crew,"FF, JP, CD",,,,,,,,,,,,,,,,
+gear,BE,,,,,,,,,,,,,,,,
+distanceShocked,1.12,,,,,,,,,,,,,,,,
+effort,0.42,,,,,,,,,,,,,,,,
+effortUnits,electrofishing_hours,,,,,,,,,,,,,,,,
+comments,SO MANY MSK missed or partially shocked,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,CD,,,,,,,,,,,,,,,,
+dataEnteredBy,FF,,,,,,,,,,,,,,,,
+metadataID,FishscapesSurvey.1.5mile.2018060,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,PKS,152,,,,,,,,,,,,,,,0
+2,WSK,326,,,,,,,,,,,,,,,0
+3,LMB,381,,AF,,,,,,,,,,,,,0
+4,WSK,365,,,,,,,,,,,,,,,0
+5,WSK,280,,,,,,,,,,,,,,,0
+6,NPK,491,,,,,,,,,,,,,,,0
+7,WSK,343,,,,,,,,,,,,,,,0
+8,LMB,405,,AF,,,,,,,,,,,,,0
+9,WSK,332,,,,,,,,,,,,,,,0
+10,WSK,341,,,,,,,,,,,,,,,0
+11,WSK,271,,,,,,,,,,,,,,,0
+12,WSK,291,,,,,,,,,,,,,,,0
+13,BLG,175,,,,,,,,,,,,,,,0
+14,WSK,395,,,,,,,,,,,,,,,0
+15,WSK,320,,,,,,,,,,,,,,,0
+16,WSK,299,,,,,,,,,,,,,,,0

@@ -1,0 +1,29 @@
+﻿projectID,41,,,,,,,,,,,,,,,,
+lakeID,CR,,,,,,,,,,,,,,,,
+siteName,FN5,,,,,,,,,,,,,,,,
+dataTimeSet,8/10/2020 16:30,,,,,,,,,,,,,,,,
+dateTimeSample,8/11/2020 11:05,,,,,,,,,,,,,,,,
+crew,"CM, CD",,,,,,,,,,,,,,,,
+gear,FN,,,,,,,,,,,,,,,,
+distanceShocked,0,,,,,,,,,,,,,,,,
+effort,18.58,,,,,,,,,,,,,,,,
+effortUnits,trap_hours,,,,,,,,,,,,,,,,
+comments,mini fyke,,,,,,,,,,,,,,,,
+UseCPUE,no,,,,,,,,,,,,,,,,
+dataRecorder,CD,,,,,,,,,,,,,,,,
+dataEnteredBy,CM,,,,,,,,,,,,,,,,
+metadataID,JoneslakeExperiment.20200607,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2020_JonesLake_Experiment,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,76,7,,,,,,,,,,,,,,0
+2,BLG,156,,,AF,,,,,,,,,,,,0
+3,BLG,164,,AF,,,,,,,,,,,,,0
+4,BLG,153,,AF,,,,,,,,,,,,,0
+5,BLG,156,,AF,,,,,,,,,,,,,0
+6,BLG,175,,,,,,,,,,,,,,,0
+7,LMB,151,41,,,,,,,900.226001622412,,,,,,,0
+8,BLG,182,,,AF,,,,,,,,,,,,0
+9,BLG,175,,AF,,,,,,,,,,,,,0
+10,BLG,176,,AF,,,,,,,,,,,,,0
+11,LMB,73,5,,,,,,,,,,,,,,0

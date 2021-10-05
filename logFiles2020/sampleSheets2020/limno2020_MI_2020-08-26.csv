@@ -1,0 +1,25 @@
+lakeID,MI,,moeties,PML,Hypo,Outlet,Inlet1,Inlet2,Inlet3,point
+site,DeepHole,,unfiltered,1,1,0,0,0,0,0
+date,20200826,,filtered,1,1,0,0,0,0,0
+time,1025,,chloro,2,2,0,0,0,0,0
+projectID,35,,POC,1,1,0,0,0,0,0
+weather,overcast warm and windy,,DOC,2,2,0,0,0,0,0
+crew,BB and CO,,DNA,0,0,0,0,0,0,0
+metadataID,Limno.Sample.20160505,,color,0,0,0,0,0,0,0
+zoop tow depth,NA,,Volumes filtered,PML,Hypo,Outlet,Inlet1,Inlet2,Inlet3,point
+comments,eckman at 17m for slurries,,chloro,450,450,0,0,0,0,0
+,height,units,POC,120,120,0,0,0,0,0
+lake_staffGauge,NA,ft,DNA,0,0,0,0,0,0,0
+Inlet1_staffGauge,NA,cm,,,,,,,,
+Inlet2_staffGauge,NA,cm,,,,,,,,
+Inlet3_staffGauge,NA,cm,,,,,,,,
+Outlet_staffGauge,NA,cm,,,,,,,,
+depth,temp,DOmgL,Dosat,SpC,pH,ORP,PAR,PML,Hypo,point
+0,23.3,6.61,78,13.3,5.5,,,1,NA,NA
+0.25,,,,,,,,1,NA,NA
+0.5,23,6.73,78.4,13.4,5.47,,,1,NA,NA
+0.75,,,,,,,,NA,NA,NA
+1,21.5,3.87,43.8,14.9,5.43,,,NA,NA,NA
+1.5,18.8,0.12,1.3,15.9,5.3,,,NA,NA,NA
+9,4.8,0.14,1.4,20.4,5.45,,,NA,1,NA
+17,4.6,0.13,1.2,21.6,5.47,,,NA,NA,NA

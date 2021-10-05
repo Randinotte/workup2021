@@ -1,0 +1,55 @@
+﻿projectID,41,,,,,,,,,,,,,,,,
+lakeID,CR,,,,,,,,,,,,,,,,
+siteName,FN4,,,,,,,,,,,,,,,,
+dataTimeSet,9/1/2020 15:20,,,,,,,,,,,,,,,,
+dateTimeSample,9/2/2020 9:35,,,,,,,,,,,,,,,,
+crew,"CD, CM",,,,,,,,,,,,,,,,
+gear,FN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,18.25,,,,,,,,,,,,,,,,
+effortUnits,trap_hours,,,,,,,,,,,,,,,,
+comments,mini fyke,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,CD,,,,,,,,,,,,,,,,
+dataEnteredBy,CM,,,,,,,,,,,,,,,,
+metadataID,JoneslakeExperiment.20200607,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2020_JonesLake_Experiment ,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,BLG,56,,AF,,,,,,,,,,,,,0
+2,BLG,84,,AF,,,,,,,,,,,,,0
+3,BLG,77,,AF,,,,,,,,,,,,,0
+4,BLG,90,,AF,,,,,,,,,,,,,0
+5,BLG,86,,AF,,,,,,,,,,,,,0
+6,BLG,79,,AF,,,,,,,,,,,,,0
+7,BLG,87,,AF,,,,,,,,,,,,,0
+8,BLG,60,,AF,,,,,,,,,,,,,0
+9,BLG,55,,AF,,,,,,,,,,,,,0
+10,BLG,57,,AF,,,,,,,,,,,,,0
+11,BLG,56,,AF,,,,,,,,,,,,,0
+12,LMB,48,1,,,,,,,,,,,,,,0
+13,BLG,57,,AF,,,,,,,,,,,,,0
+14,BLG,52,,AF,,,,,,,,,,,,,0
+15,BLG,52,,AF,,,,,,,,,,,,,0
+16,BLG,35,,,,,,,,,,,,,,too small to clip,0
+17,BLG,36,,,,,,,,,,,,,,too small to clip,0
+18,BLG,42,,,,,,,,,,,,,,too small to clip,0
+19,BLG,37,,,,,,,,,,,,,,too small to clip,0
+20,BLG,34,,,,,,,,,,,,,,too small to clip,0
+21,BLG,37,,,,,,,,,,,,,,too small to clip,0
+22,BLG,40,,,,,,,,,,,,,,too small to clip,0
+23,BLG,98,,AF,,,,,,,,,,,,,0
+24,BLG,53,,AF,,,,,,,,,,,,,0
+25,BLG,36,,,,,,,,,,,,,,too small to clip,0
+26,BLG,37,,,,,,,,,,,,,,too small to clip,0
+27,LMB,51,1,,,,,,,,,,,,,,0
+28,BLG,56,,AF,,,,,,,,,,,,,0
+29,BLG,88,,AF,,,,,,,,,,,,,0
+30,BLG,81,,AF,,,,,,,,,,,,,0
+31,BLG,81,,AF,,,,,,,,,,,,,0
+32,BLG,74,,AF,,,,,,,,,,,,,0
+33,BLG,92,,AF,,,,,,,,,,,,,0
+34,BLG,72,,AF,,,,,,,,,,,,,0
+35,BLG,91,,AF,,,,,,,,,,,,,0
+36,BLG,144,,AF,,,,,,,,,,,,,0
+37,BLG,30,,,,,,,,,,,,,,too small to clip,0

@@ -1,0 +1,28 @@
+﻿projectID,41,,,,,,,,,,,,,,,,
+lakeID,JO,,,,,,,,,,,,,,,,
+siteName,FN3,,,,,,,,,,,,,,,,
+dataTimeSet,8/4/2020 9:50,,,,,,,,,,,,,,,,
+dateTimeSample,8/5/2020 11:25,,,,,,,,,,,,,,,,
+crew,"CM, CD",,,,,,,,,,,,,,,,
+gear,FN,,,,,,,,,,,,,,,,
+distanceShocked,0,,,,,,,,,,,,,,,,
+effort,25.58,,,,,,,,,,,,,,,,
+effortUnits,trap_hours,,,,,,,,,,,,,,,,
+comments,mini fyke,,,,,,,,,,,,,,,,
+UseCPUE,no,,,,,,,,,,,,,,,,
+dataRecorder,CD,,,,,,,,,,,,,,,,
+dataEnteredBy,CM,,,,,,,,,,,,,,,,
+metadataID,JoneslakeExperiment.20200607,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2020_JonesLake_Experiment,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,316,396,,UC,,,,,,900.226001622352,,,,,BLG in stomach,0
+2,LMB,343,464,UC,,,,,,900.226001622471,,,,,,ate YOYs,0
+3,BLG,120,,AF,,,,,,,,,,,,,0
+4,LMB,56,2,,,,,,,,,,,,,,0
+5,BLG,135,,AF,,,,,,,,,,,,,0
+6,LMB,63,2,,,,,,,,,,,,,,0
+7,BLG,62,,AF,,,,,,,,,,,,,0
+8,LMB,47,1,,,,,,,,,,,,,,0
+9,LMB,69,3,,,,,,,,,,,,,,0
+10,LMB,70,3,,,,,,,,,,,,,,0

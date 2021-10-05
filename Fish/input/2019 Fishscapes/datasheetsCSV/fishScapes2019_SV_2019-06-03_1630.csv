@@ -1,0 +1,25 @@
+projectID,37,,,,,,,,,,,,,,,
+lakeID,SV,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,
+dataTimeSet,6/3/2019 13:40,,,,,,,,,,,,,,,
+dateTimeSample,6/3/2019 16:30,,,,,,,,,,,,,,,
+crew,"JC,CD",,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,
+effort,2.83,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,
+comments,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,
+dataRecorder,JC,,,,,,,,,,,,,,,
+dataEnteredBy,JP,,,,,,,,,,,,,,,
+metadataID,Fishscapes.Angling.20180625,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,dietSampled
+1,LMB,316,,AF,,,,,,,,,,,JC,0
+2,LMB,412,,AF,,,,,,,,,,,JC,0
+3,LMB,406,,AF,,,,,,,,,,,JC,0
+4,LMB,304,,AF,,,,,,,,,,,JC,0
+5,LMB,222,,AF,,,,,,,,,,,CD,0
+6,LMB,208,,AF,,,,,,,,,,,CD,0
+7,LMB,415,,AF,,,,,,,,,,,CD,0

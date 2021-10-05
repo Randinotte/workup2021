@@ -1,0 +1,25 @@
+projectID,3,,,,,,,,,,,,,,,,
+lakeID,FE,,,,,,,,,,,,,,,,
+siteName,WholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,7/29/20 14:08,,,,,,,,,,,,,,,,
+dateTimeSample,7/29/20 17:10,,,,,,,,,,,,,,,,
+crew,"JB, AA",,,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,,
+distanceShocked,NA,,,,,,,,,,,,,,,,
+effort,2.43,,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,,
+comments,,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,AA,,,,,,,,,,,,,,,,
+dataEnteredBy,AA,,,,,,,,,,,,,,,,
+metadataID,MarkRecap.20120228,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,FE2020_markrecap,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,271,222,,,,,,,,900F67000093132,,,,,,1
+2,LMB,237,167,,,,,,,,900F67000152170,,,,,,1
+3,LMB,265,250,,,,,,,,900F67000049880,,,,,,1
+4,LMB,313,382,,,,,,,,900F224000125362,,,,,,1
+5,LMB,239,168,,,,,,,900F226001139553,,,,,,,1
+6,LMB,264,255,,,,,,,,900F224000119645,,,,,,1
+7,LMB,315,387,,,,,,,,900F224000125124,,,,,,1

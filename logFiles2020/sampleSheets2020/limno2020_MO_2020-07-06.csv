@@ -1,0 +1,33 @@
+lakeID,MO,,moeties,PML,Hypo,Outlet,Inlet1,Inlet2,Inlet3,point
+site,DeepHole,,unfiltered,1,1,0,1,1,0,0
+date,20200706,,filtered,1,1,0,1,1,0,0
+time,901,,chloro,2,2,0,0,0,0,0
+projectID,15,,POC,1,1,0,1,1,0,0
+weather,sunny sticky sauna ,,DOC,2,2,0,2,2,0,0
+crew,RN and CS,,DNA,2,2,0,0,0,0,0
+metadataID,Limno.Sample.20160505,,color,1,1,0,1,1,0,0
+zoop tow depth,NA,,Volumes filtered,PML,Hypo,Outlet,Inlet1,Inlet2,Inlet3,point
+comments,Deck PAR 799.0,,chloro,450,450,0,0,0,0,0
+,height,units,POC,120,100,0,100,120,0,0
+lake_staffGauge,NA,ft,DNA,250,150,0,0,0,0,0
+Inlet1_staffGauge,3.98,cm,,,,,,,,
+Inlet2_staffGauge,8.89,cm,,,,,,,,
+Inlet3_staffGauge,0,cm,,,,,,,,
+Outlet_staffGauge,NA,cm,,,,,,,,
+depth,temp,DOmgL,Dosat,SpC,pH,ORP,PAR,PML,Hypo,point
+0,27.6,6.91,87.9,93.8,7.45,218.6,501.7,1,NA,NA
+0.25,,,,,,,255.9,NA,NA,NA
+0.5,27.3,6.73,84.2,93.2,4.47,227.8,110.76,1,NA,NA
+0.75,,,,,,,60.64,NA,NA,NA
+1,25,5.91,71.4,91.1,7.22,243.6,31.36,NA,NA,NA
+1.5,19.8,5.53,59.7,86.8,6.9,261,12.55,NA,NA,NA
+2,15.8,4.27,43,87.5,6.81,263.5,3.89,NA,NA,NA
+2.5,11.9,2.35,22.3,89.7,6.95,253.3,,NA,NA,NA
+3,9.4,2.43,21.3,99.9,6.86,255.7,,NA,NA,NA
+3.5,7.9,2.55,21.4,113.4,6.76,259,,NA,1,NA
+4,7,2.4,19.9,144.6,6.67,64.9,,NA,NA,NA
+4.5,6.2,2.26,18.3,155.8,6.7,13.2,,NA,NA,NA
+5,5.8,2.16,17.3,163,6.75,-4.8,,NA,NA,NA
+5.5,5.6,2.1,16.7,170.7,6.76,-12.7,,NA,NA,NA
+6,5.4,2.05,15.9,177.5,6.8,-24.9,,NA,NA,NA
+6.5,5.4,1.96,15.5,182.3,6.83,-32.9,,NA,NA,NA

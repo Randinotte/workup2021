@@ -1,0 +1,33 @@
+projectID,41,,,,,,,,,,,,,,,,,
+lakeID,CR,,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,,
+dataTimeSet,8/24/2020 15:50,,,,,,,,,,,,,,,,,
+dateTimeSample,8/24/2020 18:05,,,,,,,,,,,,,,,,,
+crew,"CM, CD ",,,,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,,
+effort,2.25,,,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,,,
+comments,,,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,,
+dataRecorder,CD,,,,,,,,,,,,,,,,,
+dataEnteredBy,CD,,,,,,,,,,,,,,,,,
+metadataID,JoneslakeExperiment.20200607,,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,,
+sampleGroup,2020_JonesLake_Experiment ,,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,gpsWaypoint,comments,dietSampled
+1,LMB,388,690,,,,,,,900.22601622986,,,,,CD,54,,1
+2,LMB,296,346,,,,,,,900.22601622773,,,,,CM,55,,1
+3,LMB,333,527,,,,,,,900.22601622921,,,,,CM,56,,1
+4,LMB,362,659,,,,,,,900.22601622993,,,,,CD,57,,1
+5,LMB,395,896,,,,,,,,900.067000151907,,,,CD,58,,1
+6,LMB,355,612,,,,,,,,900.226001622466,,,,CD,59,,1
+7,LMB,362,605,,,,,,,,900.226001622274,,,,CD,60,,1
+8,LMB,404,841,,,,,,,900.22601622772,,,,,CM,61,,1
+9,LMB,381,751,,,,,,,,900.226001622362,,,,CD,62,,1
+10,LMB,230,144,,,,,,,900.22601622823,,,,,CD,63,,1
+11,LMB,332,468,,,,,,,900.22601622843,,,,,CM,64,,0
+12,BLG,164,,AF,,,,,,,,,,,CM,,,0
+13,LMB,339,531,,,,,,,900.22601622881,,,,,CM,65,,0
+14,LMB,380,805,,,,,,,,900.067000152370,,,,CM,66,,0
+15,LMB,310,399,,,,,,,900.22601622961,,,,,CD,67,,0

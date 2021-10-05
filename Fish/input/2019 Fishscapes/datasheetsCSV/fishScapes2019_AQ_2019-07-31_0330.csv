@@ -1,0 +1,28 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,AQ,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,7/31/2019 3:20,,,,,,,,,,,,,,,,
+dateTimeSample,7/31/2019 3:30,,,,,,,,,,,,,,,,
+crew,"DS,MS,AL",,,,,,,,,,,,,,,,
+gear,BE,,,,,,,,,,,,,,,,
+distanceShocked,0.26,,,,,,,,,,,,,,,,
+effort,0.17,,,,,,,,,,,,,,,,
+effortUnits,electrofishing_hours,,,,,,,,,,,,,,,,
+comments,Fog made us end could not see shore cold and loons,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,AL,,,,,,,,,,,,,,,,
+dataEnteredBy,DS,,,,,,,,,,,,,,,,
+metadataID,FishscapesSurvey.1.5mile.20180607,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,WLY,355,,,,,,,,,,,,,,,0
+2,WLY,215,,,,,,,,,,,,,,,0
+3,WLY,225,,,,,,,,,,,,,,,0
+4,WLY,279,,,,,,,,,,,,,,,0
+5,WLY,192,,,,,,,,,,,,,,,0
+6,BLG,195,,,,,,,,,,,,,,,0
+7,BLG,200,,,,,,,,,,,,,,,0
+8,WLY,376,,,,,,,,,,,,,,,0
+9,LMB,373,,AF,,,,1,1,,,,,,,,0
+10,WLY,342,,,,,,,,,,,,,,,0

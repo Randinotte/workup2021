@@ -1,0 +1,34 @@
+projectID,37,,,,,,,,,,,,,,,
+lakeID,AQ,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,
+dataTimeSet,7/31/2019 2:15,,,,,,,,,,,,,,,
+dateTimeSample,7/31/2019 2:25,,,,,,,,,,,,,,,
+crew,"DS, MS, AL",,,,,,,,,,,,,,,
+gear,BE,,,,,,,,,,,,,,,
+distanceShocked,0.25,,,,,,,,,,,,,,,
+effort,0.17,,,,,,,,,,,,,,,
+effortUnits,electrofishing_hours,,,,,,,,,,,,,,,
+comments,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,
+dataRecorder,AL,,,,,,,,,,,,,,,
+dataEnteredBy,AL,,,,,,,,,,,,,,,
+metadataID,FishscapesSurvey0.5mile.20180606,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,dietSampled
+1,WLY,335,,,,,,,,,,,,,,0
+2,WLY,356,,,,,,,,,,,,,,0
+3,BLG,133,,,,,,,,,,,,,,0
+4,BLG,139,,,,,,,,,,,,,,0
+5,RKB,123,,,,,,,,,,,,,,0
+6,BLG,131,,,,,,,,,,,,,,0
+7,BLG,125,,,,,,,,,,,,,,0
+8,WLY,214,,,,,,,,,,,,,,0
+9,YWP,41,,,,,,,,,,,,,,0
+10,WSK,337,,,,,,,,,,,,,,0
+11,YWP,104,,,,,,,,,,,,,,0
+12,WLY,193,,,,,,,,,,,,,,0
+13,BLG,152,,,,,,,,,,,,,,0
+14,YWP,45,,,,,,,,,,,,,,0
+15,minnow,33,,,,,,,,,,,,,,0
+16,YWP,41,,,,,,,,,,,,,,0

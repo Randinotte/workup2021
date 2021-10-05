@@ -1,0 +1,38 @@
+projectID,37,,,,,,,,,,,,,,,
+lakeID,UG,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,
+dataTimeSet,7/2/2019 23:30,,,,,,,,,,,,,,,
+dateTimeSample,7/3/2019 0:25,,,,,,,,,,,,,,,
+crew,"DS, MS, JC",,,,,,,,,,,,,,,
+gear,BE,,,,,,,,,,,,,,,
+distanceShocked,1.54,,,,,,,,,,,,,,,
+effort,0.92,,,,,,,,,,,,,,,
+effortUnits,electrofishing_hours,,,,,,,,,,,,,,,
+comments,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,
+dataRecorder,MS,,,,,,,,,,,,,,,
+dataEnteredBy,MS,,,,,,,,,,,,,,,
+metadataID,FishscapesSurvey.hotBassLap.20180607,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,dietSampled
+1,LMB,223,,AF,,,,,,,,,,,,0
+2,LMB,231,,AF,,,,,,,,,,,,0
+3,LMB,324,,AF,,,,,,,,,,,,0
+4,LMB,212,,AF,,,,,,,,,,,,0
+5,LMB,225,,AF,,,,,,,,,,,,0
+6,LMB,218,,AF,,,,,,,,,,,,0
+7,LMB,274,,AF,,,,,,,,,,,,0
+8,LMB,316,,AF,,,,,,,,,,,,0
+9,LMB,322,,AF,,,,,,,,,,,,0
+10,LMB,250,,AF,,,,,,,,,,,,0
+11,LMB,342,,AF,,,,,,,,,,,,0
+12,LMB,324,,AF,,,,,,,,,,,,0
+13,LMB,232,,AF,,,,,,,,,,,,0
+14,LMB,326,,AF,,,,,,,,,,,,0
+15,LMB,241,,AF,,,,,,,,,,,,0
+16,LMB,315,,AF,,,,,,,,,,,,0
+17,LMB,294,,AF,,,,,,,,,,,,0
+18,LMB,233,,AF,,,,,,,,,,,,0
+19,LMB,259,,AF,,,,,,,,,,,,0
+20,LMB,220,,AF,,,,,,,,,,,,0

@@ -1,0 +1,22 @@
+projectID,37,,,,,,,,,,,,,,,
+lakeID,LV,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,
+dataTimeSet,7/11/2019 2:25,,,,,,,,,,,,,,,
+dateTimeSample,7/11/2019 3:15,,,,,,,,,,,,,,,
+crew,"DS, MS, JC",,,,,,,,,,,,,,,
+gear,BE,,,,,,,,,,,,,,,
+distanceShocked,1.54,,,,,,,,,,,,,,,
+effort,0.83,,,,,,,,,,,,,,,
+effortUnits,electrofishing_hours,,,,,,,,,,,,,,,
+comments,windy this is repeat of part of shore because of hazardous wind,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,
+dataRecorder,JC,,,,,,,,,,,,,,,
+dataEnteredBy,MS,,,,,,,,,,,,,,,
+metadataID,FishscapesSurvey.hotBassLap.20180607,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,dietSampled
+1,SMB,225,,AF,,,,,,,,,,,,0
+2,SMB,269,,AF,,,,,,,,,,,,0
+3,SMB,422,,AF,,,,,,,,,,,,0
+4,LMB,388,,AF,,,,1,1,,,,,,,0

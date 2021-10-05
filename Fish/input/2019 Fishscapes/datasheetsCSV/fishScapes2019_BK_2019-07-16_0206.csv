@@ -1,0 +1,31 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,BK,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,7/16/2019 1:55,,,,,,,,,,,,,,,,
+dateTimeSample,7/16/2019 2:06,,,,,,,,,,,,,,,,
+crew,"AMK, FF, CD",,,,,,,,,,,,,,,,
+gear,BE,,,,,,,,,,,,,,,,
+distanceShocked,0.5,,,,,,,,,,,,,,,,
+effort,0.18,,,,,,,,,,,,,,,,
+effortUnits,electrofishing_hours,,,,,,,,,,,,,,,,
+comments,,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,FF,,,,,,,,,,,,,,,,
+dataEnteredBy,FF,,,,,,,,,,,,,,,,
+metadataID,FishscapesSurvey0.5mile.20180606,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,RKB,225,,,,1,,,,,,,,,,,0
+2,LMB,35,,,,,,,,,,,,,,,0
+3,BLG,155,,,,,,,,,,,,,,,0
+4,GDS,143,,,,,,,,,,,,,,,0
+5,LMB,250,,,,,,,,,,,,,,,0
+6,YWP,86,,,,,,,,,,,,,,,0
+7,WSK,527,,,,,,,,,,,,,,,0
+8,YWP,40,,,,1,,,,,,,,,,,0
+9,BLG,50,,,,1,,,,,,,,,,,0
+10,LMB,496,,,,,,,,,,,,,,,0
+11,minnow,55,,,,,,,,,,,,,,,0
+12,minnow,47,,,,,,,,,,,,,,,0
+13,LMB,38,,,,,,,,,,,,,,,0

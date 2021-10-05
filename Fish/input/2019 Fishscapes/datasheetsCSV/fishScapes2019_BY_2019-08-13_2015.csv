@@ -1,0 +1,30 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,BY,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,8/13/2019 16:15,,,,,,,,,,,,,,,,
+dateTimeSample,8/13/2019 20:05,,,,,,,,,,,,,,,,
+crew,"MS,ALK",,,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,3.83,,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,,
+comments,10 mins in breaks for boat  counts   end time adjusted to account for this    marys last rodayo,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,ALK,,,,,,,,,,,,,,,,
+dataEnteredBy,CD,,,,,,,,,,,,,,,,
+metadataID,Fishscapes.Angling.20180625,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,366,,AF,,,,,,,,,,,ALK,,0
+2,LMB,347,,AF,,,,,,,,,,,ALK,,0
+3,LMB,398,,,AF,,,,,,,,,,ALK,,0
+4,LMB,,,AF,,,,,,,,,,,MS,lost to sea before measurement,0
+5,LMB,289,,,AF,,,,,,,,,,MS,WAYHO,0
+6,LMB,233,,AF,,,,,,,,,,,MS,alex tried to steal my fish,0
+7,NPK,587,,,,,,,,,,,,,MS,secret agent fish,0
+8,LMB,365,,AF,,,,,,,,,,,ALK,,0
+9,LMB,314,,AF,,,,,,,,,,,MS,,0
+10,LMB,272,,AF,,,,,,,,,,,MS,,0
+11,LMB,274,,AF,,,,,,,,,,,MS,WAYHO marys final wayho,0
+12,LMB,234,,,AF,,,,,,,,,,ALK,,0

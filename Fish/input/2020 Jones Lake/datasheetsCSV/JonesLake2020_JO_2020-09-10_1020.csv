@@ -1,0 +1,51 @@
+﻿projectID,41,,,,,,,,,,,,,,,,
+lakeID,JO,,,,,,,,,,,,,,,,
+siteName,FN4,,,,,,,,,,,,,,,,
+dataTimeSet,9/9/2020 15:45,,,,,,,,,,,,,,,,
+dateTimeSample,9/10/2020 10:20,,,,,,,,,,,,,,,,
+crew,"CD, CM",,,,,,,,,,,,,,,,
+gear,FN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,18.58,,,,,,,,,,,,,,,,
+effortUnits,trap_hours,,,,,,,,,,,,,,,,
+comments,mini fyke,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,CD,,,,,,,,,,,,,,,,
+dataEnteredBy,CM,,,,,,,,,,,,,,,,
+metadataID,JoneslakeExperiment.20200607,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2020_JonesLake_Experiment ,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,BLG,75,,AF,,,,,,,,,,,,,0
+2,BLG,102,,AF,,,,,,,,,,,,,0
+3,BLG,61,,AF,,,,,,,,,,,,,0
+4,BLG,43,,,,,,,,,,,,,,too small to clip,0
+5,BLG,36,,,,,,,,,,,,,,too small to clip,0
+6,LMB,89,6,,,,,,,,,,,,,,0
+7,LMB,87,7,,,,,,,,,,,,,,0
+8,LMB,65,3,,,,,,,,,,,,,,0
+9,LMB,95,10,,,,,,,,,,,,,,0
+10,LMB,74,5,,,,,,,,,,,,,,0
+11,BLG,40,,,,,,,,,,,,,,too small to clip,0
+12,BLG,39,,,,,,,,,,,,,,too small to clip,0
+13,BLG,37,,,,,,,,,,,,,,too small to clip,0
+14,BLG,37,,,,,,,,,,,,,,too small to clip,0
+15,BLG,38,,,,,,,,,,,,,,too small to clip,0
+16,BLG,39,,,,,,,,,,,,,,too small to clip,0
+17,BLG,36,,,,,,,,,,,,,,too small to clip,0
+18,BLG,40,,,,,,,,,,,,,,too small to clip,0
+19,BLG,43,,,,,,,,,,,,,,too small to clip,0
+20,BLG,38,,,,,,,,,,,,,,too small to clip,0
+21,BLG,37,,,,,,,,,,,,,,too small to clip,0
+22,BLG,36,,,,,,,,,,,,,,too small to clip,0
+23,BLG,38,,,,,,,,,,,,,,too small to clip,0
+24,BLG,40,,,,,,,,,,,,,,too small to clip,0
+25,BLG,42,,,,,,,,,,,,,,too small to clip,0
+26,BLG,63,,AF,,,,,,,,,,,,,0
+27,LMB,300,321,,UC,,,,,,900.226001622298,,pit,,,,0
+28,LMB,93,10,,,,,,,,,,,,,,0
+29,LMB,94,9,,,,,,,,,,,,,,0
+30,LMB,63,3,,,,,,,,,,,,,,0
+31,LMB,87,8,,,,,,,,,,,,,,0
+32,LMB,84,7,,,,,,,,,,,,,,0
+33,BLG,34,,,,,,,,,,,,,,too small to clip,0

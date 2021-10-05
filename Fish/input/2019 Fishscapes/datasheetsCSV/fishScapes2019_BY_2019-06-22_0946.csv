@@ -1,0 +1,37 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,BY,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,6/22/2019 5:45,,,,,,,,,,,,,,,,
+dateTimeSample,6/22/2019 9:46,,,,,,,,,,,,,,,,
+crew,"JC,ALK,DS",,,,,,,,,,,,,,,,
+gear,AN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,4.02,,,,,,,,,,,,,,,,
+effortUnits,angler_hours,,,,,,,,,,,,,,,,
+comments,,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,JC,,,,,,,,,,,,,,,,
+dataEnteredBy,AL,,,,,,,,,,,,,,,,
+metadataID,Fishscapes.Angling.20180625,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,323,,AF,,,,1,1,,,,,,ALK,,0
+2,LMB,299,,,AF,,,1,1,,,,,,DS,,0
+3,LMB,406,,AF,,,,1,1,,,,,,ALK,,0
+4,LMB,326,,AF,,,,1,1,,,,,,DS,,0
+5,LMB,327,,AF,,,,1,1,,,,,,DS,,0
+6,LMB,272,,AF,,,,1,1,,,,,,ALK,,0
+7,LMB,358,,,AF,,,1,1,,,,,,DS,fish #7 recap but originally wrong spines ,0
+8,LMB,308,,AF,,,,1,1,,,,,,DS,,0
+9,LMB,346,,AF,,,,1,1,,,,,,ALK,,0
+10,LMB,361,,AF,,,,1,1,,,,,,ALK,,0
+11,LMB,386,,AF,,,,1,1,,,,,,JC,,0
+12,LMB,239,,,AF,,,,,,,,,,DS,,0
+13,LMB,364,,AF,,,,1,1,,,,,,DS,,0
+14,LMB,341,,AF,,,,1,1,,,,,,DS,,0
+15,LMB,385,,AF,,,,1,1,,,,,,JC,,0
+16,LMB,386,,,AF,,,,,,,,,,DS,,0
+17,LMB,381,,AF,,,,1,1,,,,,,ALK,,0
+18,LMB,319,,AF,,,,1,1,,,,,,ALK,,0
+19,LMB,279,,AF,,,,1,1,,,,,,JC,,0

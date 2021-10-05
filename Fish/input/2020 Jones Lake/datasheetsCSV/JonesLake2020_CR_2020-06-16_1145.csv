@@ -1,0 +1,32 @@
+﻿projectID,41,,,,,,,,,,,,,,,,
+lakeID,CR,,,,,,,,,,,,,,,,
+siteName,FN6,,,,,,,,,,,,,,,,
+dataTimeSet,6/15/2020 15:53,,,,,,,,,,,,,,,,
+dateTimeSample,6/16/2020 11:45,,,,,,,,,,,,,,,,
+crew,"CM, AL",,,,,,,,,,,,,,,,
+gear,FN,,,,,,,,,,,,,,,,
+distanceShocked,,,,,,,,,,,,,,,,,
+effort,19.87,,,,,,,,,,,,,,,,
+effortUnits,trap_hours,,,,,,,,,,,,,,,,
+comments,SNAPPING TURTLE,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,CM,,,,,,,,,,,,,,,,
+dataEnteredBy,AL,,,,,,,,,,,,,,,,
+metadataID,JoneslakeExperiment.20200607,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2020_JonesLake_Experiment,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,BLG,195,,AF,,1,,,,,,,,,,in shock,0
+2,BLG,208,,,,1,,,,,,,,,,,0
+3,BLG,186,,AF,,,,,,,,,,,,,0
+4,BLG,176,,AF,,,,,,,,,,,,,0
+5,BLG,74,,,,1,,,,,,,,,,,0
+6,BLG,199,,,AF,,,,,,,,,,,,0
+7,BLG,198,,AF,,,,,,,,,,,,,0
+8,BLG,201,,AF,,,,,,,,,,,,,0
+9,BLG,186,,AF,,,,,,,,,,,,,0
+10,BLG,180,,AF,,,,,,,,,,,,,0
+11,BLG,185,,AF,,,,,,,,,,,,,0
+12,BLG,189,,AF,,,,,,,,,,,,,0
+13,BLG,196,,AF,,,,,,,,,,,,,0
+14,BLG,186,,AF,,,,,,,,,,,,,0

@@ -1,0 +1,24 @@
+projectID,37,,,,,,,,,,,,,,,,
+lakeID,AQ,,,,,,,,,,,,,,,,
+siteName,wholeShoreline,,,,,,,,,,,,,,,,
+dataTimeSet,8/6/2019 0:40,,,,,,,,,,,,,,,,
+dateTimeSample,8/6/2019 1:37,,,,,,,,,,,,,,,,
+crew,"DS,MS,KW,CL",,,,,,,,,,,,,,,,
+gear,BE,,,,,,,,,,,,,,,,
+distanceShocked,1.5,,,,,,,,,,,,,,,,
+effort,0.95,,,,,,,,,,,,,,,,
+effortUnits,electrofishing_hours,,,,,,,,,,,,,,,,
+comments,Danny does not like the envelopes for spin ing so he does not wanna be data recorder and said Mary is so good at envelopes,,,,,,,,,,,,,,,,
+UseCPUE,yes,,,,,,,,,,,,,,,,
+dataRecorder,MS,,,,,,,,,,,,,,,,
+dataEnteredBy,DS,,,,,,,,,,,,,,,,
+metadataID,FishscapesSurvey.hotBassLap.20180607,,,,,,,,,,,,,,,,
+useSampleMarkRecap,yes,,,,,,,,,,,,,,,,
+sampleGroup,2019_fishscapes_survey,,,,,,,,,,,,,,,,
+fishNum,species,fishLength,fishWeight,clipApply,clipRecapture,mortality,removed,spineSampled,scaleSampled,tagApply,tagRecapture,tagApplyType,tagRecaptureType,oldTag,caughtBy,comments,dietSampled
+1,LMB,353,,AF,,,,1,1,,,,,,,,0
+2,LMB,290,,AF,,,,1,1,,,,,,,,0
+3,LMB,282,,AF,,,,1,1,,,,,,,,0
+4,LMB,279,,AF,,,,1,1,,,,,,,,0
+5,LMB,284,,AF,,,,1,1,,,,,,,,0
+6,LMB,280,,AF,,,,1,1,,,,,,,,0
